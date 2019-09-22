@@ -1,0 +1,31 @@
+/* Text */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+  }
+  p {
+    font-family: 'Lato', sans-serif;
+  }
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 25% !important;
+}
+.navbar-brand {
+    margin-left: 10%;
+    font-size: 40px;
+}
+
+.nav-item {
+  margin: 20% 10% 20% 0;
+}
+
+.row {
+    margin: 0 10% 10% 10%;
+}
+
+.card {
+    padding; 20%;
+}
+
+.icons {
+    margin-left: 75%;
+}
